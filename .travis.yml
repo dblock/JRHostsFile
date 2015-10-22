@@ -4,3 +4,4 @@ before_install:
 language: objective-c
 xcode_workspace: JRHostsFile.xcworkspace
 xcode_scheme: Tests
+osx_image: xcode7
